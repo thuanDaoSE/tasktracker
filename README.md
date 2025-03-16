@@ -2,6 +2,8 @@
 
 A command-line task management application built with Spring Boot that stores tasks in a JSON file.
 
+Project based on: [roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
+
 ## Features
 
 - Add, update, and delete tasks
